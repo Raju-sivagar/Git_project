@@ -1,1 +1,2 @@
-print("add VS code git practices")
+print("VS code git practices")
+print("final code")

@@ -1,1 +1,3 @@
 print("Hello from print_text branch!")
+print("This is a test change for Git stash")
+# Temporary edit for stash testing
