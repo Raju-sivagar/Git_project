@@ -1,4 +1,4 @@
-print("VS code git practices")
+print("New VS code git practices")
 
 print("new code for something")
 
